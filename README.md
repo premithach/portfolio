@@ -16,4 +16,4 @@ This is a personal portfolio website showcasing my skills, projects, and profess
 * Contact Information: Easily accessible contact information invites visitors to connect and engage.</br>
 
 ### Link</br>
-https://premitha-portfolio.vercel.app/
+https://premithaportfolio.vercel.app/
